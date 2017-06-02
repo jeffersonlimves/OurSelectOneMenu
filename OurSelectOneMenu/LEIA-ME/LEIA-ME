@@ -1,0 +1,15 @@
+
+OBSERVE QUE NAO PRECISAMOS IMPLEMENTAR UM CONVERSOR POIS A PROPRIA API DO JSF JA POSSUI UM CONVERSOR PARA TIPOS "ENUM".
+
+http://localhost:8080/OurSelectOneMenu/
+
+http://localhost:8080/OurSelectOneMenu/index.jsp
+
+http://localhost:8080/OurSelectOneMenu/paginas/perfilUsuario.xhtml
+
+http://localhost:8080/OurSelectOneMenu/paginas/perfilUsuario1.xhtml
+
+http://localhost:8080/OurSelectOneMenu/paginas/perfilUsuario2.xhtml
+
+http://localhost:8080/OurSelectOneMenu/paginas/perfilUsuario3.xhtml
+
